@@ -1,0 +1,80 @@
+[
+  {
+    "key": "m01",
+    "n": 1,
+    "id": "QA-L1-M01",
+    "title": "Testing Fundamentals",
+    "dir": "m01-testing-fundamentals",
+    "dates": "Fri 2 Oct 2026",
+    "week": 1,
+    "academySlug": "month-1-testing-fundamentals",
+    "gammaSlug": "month-1-testing-fundamentals-gamma-script",
+    "summary": "Test design techniques, manual test cases and the defect lifecycle applied to a real application.",
+    "headlineMetric": "test cases + defects"
+  },
+  {
+    "key": "m02",
+    "n": 2,
+    "id": "QA-L1-M02",
+    "title": "Test Automation Basics",
+    "dir": "m02-test-automation-basics",
+    "dates": "Sat 3 – Sun 4 Oct 2026",
+    "week": 1,
+    "academySlug": "month-2-test-automation-basics",
+    "gammaSlug": "month-2-test-automation-basics-gamma-script",
+    "summary": "Automate UI tests with Selenium and Cypress using the Page Object Model.",
+    "headlineMetric": "automated suite"
+  },
+  {
+    "key": "m03",
+    "n": 3,
+    "id": "QA-L1-M03",
+    "title": "API Testing",
+    "dir": "m03-api-testing",
+    "dates": "Fri 9 – Sat 10 Oct 2026",
+    "week": 2,
+    "academySlug": "month-3-api-testing",
+    "gammaSlug": null,
+    "summary": "Test REST APIs with Postman and REST Assured, including contract testing.",
+    "headlineMetric": "API suite + contracts"
+  },
+  {
+    "key": "m04",
+    "n": 4,
+    "id": "QA-L1-M04",
+    "title": "Performance Testing",
+    "dir": "m04-performance-testing",
+    "dates": "Sun 25 Oct 2026",
+    "week": 4,
+    "academySlug": "month-4-performance-testing",
+    "gammaSlug": null,
+    "summary": "Plan and run load and stress tests with JMeter and k6, and report the bottlenecks.",
+    "headlineMetric": "load test report"
+  },
+  {
+    "key": "m05",
+    "n": 5,
+    "id": "QA-L1-M05",
+    "title": "Mobile & Security Testing",
+    "dir": "m05-mobile-security-testing",
+    "dates": "Fri 6 – Sat 7 Nov 2026",
+    "week": 6,
+    "academySlug": "month-5-mobile-security-testing",
+    "gammaSlug": null,
+    "summary": "Mobile test basics with Appium and security testing against the OWASP Top 10 with scanners.",
+    "headlineMetric": "OWASP findings"
+  },
+  {
+    "key": "m06",
+    "n": 6,
+    "id": "QA-L1-M06",
+    "title": "Test Strategy & Leadership (capstone)",
+    "dir": "m06-test-strategy-leadership",
+    "dates": "Sun 8 Nov 2026",
+    "week": 6,
+    "academySlug": "month-6-test-strategy-leadership",
+    "gammaSlug": null,
+    "summary": "Capstone: a test strategy and plan with QA metrics for a full product.",
+    "headlineMetric": "test strategy"
+  }
+]
